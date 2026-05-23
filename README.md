@@ -1,4 +1,4 @@
-# Dylan & Jenna — Mallorca, June 5 2027
+# Dylan & Meagan — Mallorca, June 5 2027
 
 A single-page wedding site. Hero, countdown, schedule, accommodation, dress code,
 FAQ, and an RSVP form that writes into Supabase.

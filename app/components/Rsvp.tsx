@@ -269,7 +269,7 @@ export default function Rsvp() {
 
             <div>
               <label className={labelClass} htmlFor="notes">
-                Notes for Dylan &amp; Jenna
+                Notes for Dylan &amp; Meagan
               </label>
               <textarea
                 id="notes"

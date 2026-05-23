@@ -10,7 +10,7 @@ export default function Hero() {
           You&rsquo;re invited
         </h1>
         <p className="font-sans text-lg sm:text-xl text-ink-soft mt-8">
-          to the wedding of Dylan &amp; Jenna
+          to the wedding of Dylan &amp; Meagan
         </p>
         <a
           href="#rsvp"

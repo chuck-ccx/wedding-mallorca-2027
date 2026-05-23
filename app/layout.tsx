@@ -16,7 +16,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Dylan & Jenna — Mallorca, June 5 2027",
+  title: "Dylan & Meagan — Mallorca, June 5 2027",
   description: "You're invited.",
 };
 
